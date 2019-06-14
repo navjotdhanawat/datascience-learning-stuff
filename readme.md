@@ -25,4 +25,7 @@ Here is an image laying out what should you do month on month to become a data s
 
 ![alt text](Data-Scientist-Learning-Path.png)
 
+### DataScience Learning Path
+![alt text](datascience-visual-learning-flow.jpg)
+
 [Reference](https://www.analyticsvidhya.com)
